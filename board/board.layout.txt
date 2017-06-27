@@ -1,0 +1,14 @@
+      06 07                               46 47          58 59                               098 099
+      08 09                               48 49          60 61                               100 101
+02 03       14 15 18 19 26 27 34 35       50 51    54 55       66 67 70 71 78 79 86 87       102 103
+04 05       16 17 20 21 28 29 36 37       52 53    56 57       68 69 72 73 80 81 88 89       104 105
+      10 11       22 23 30 31 38 39 42 43                62 63       74 75 82 83 90 91 94 95
+      12 13       24 25 32 33 40 41 44 45                64 65       76 77 84 85 92 93 96 97
+
+
+      UP UP                               SE SE          UP UP                               SEL SEL   
+      UP UP                               SE SE          UP UP                               SEL SEL    
+LE FT       RI GH YY YY XX XX LT LT       ST ST    LE FT       RI GH YY YY XX XX LT LT       STA STA    
+LE FT       RI GH YY YY XX XX LT LT       ST ST    LE FT       RI GH YY YY XX XX LT LT       STA STA    
+      DO WN       BB BB AA AA RT RT HK HK                DO WN       BB BB AA AA RT RT HK HK          
+      DO WN       BB BB AA AA RT RT HK HK                DO WN       BB BB AA AA RT RT HK HK          

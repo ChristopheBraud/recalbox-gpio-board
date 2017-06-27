@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Arcade)(type KiCad)(uri /home/christophe/git/Pers/recalbox-gpio-board/board/LibArcade.pretty)(options "")(descr ""))
+)
